@@ -1,5 +1,5 @@
 package condition.Switch;
-import java.util.*;
+import java.util.Scanner;
 public class week {
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
